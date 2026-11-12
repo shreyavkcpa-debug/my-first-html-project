@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Time Table</title>
+    </head>
+    <body>
+        <fieldset style="width: fit-content; border: 3px solid #0e0000; padding: 20px;margin: 20px auto;"> 
+        <table border="1" style="border: 3px solid black;border-collapse: collapse; ">
+            <caption colspan="8" style="font-size: 20px; font-weight: bold; color: #0e0000;">College Time Table - CSE Department</caption>
+            <tr>
+                <th>Day/time</th>
+                <th>9:00-10:00</th>
+                <th>10:00-11:00</th>
+                <th>11:00-12:00</th>
+                <th>12:00-1:00</th>
+                <th>1:00-2:00</th>
+                <th>2:00-3:00</th>
+                <th>3:00-4:00</th>
+            </tr>
+            <tr>
+                <td>Monday</td>
+                <td rowspan="2">Maths</td>
+                <td>English</td>
+                <td rowspan="3">Physics</td>
+                <td>break</td>
+                <td colspan="2">computer lab</td>
+                <td>Sports</td>
+            </tr>
+             <tr>
+                <td>Tuesday</td>
+                <td>C Programming</td>
+                <td>Break</td>
+                <td colspan="2">Electronics lab</td>
+                <td>Library</td>
+            </tr>
+             <tr>
+                <td>Wednesday</td>
+                <td >Maths</td>
+                <td>English</td>
+                <td>Break</td>
+                <td >computer networks</td>
+                <td colspan="2">
+                    <fieldset style="width: fit-content; border: 3px solid #0e0000; padding: 10px;">
+                       <table border="1" style="border: 3px solid black;border-collapse: collapse; ">
+                            <caption style="font-size: 15px; font-weight: bold; color: #0e0000;">Lab Schedule</caption>
+                            <tr>
+                                <th>Batch A</th>
+                                <th>DBMS Lab</th>
+                            </tr>
+                            <tr>
+                                <td>Batch B</td>
+                                <td>OS Lab</td>
+                            </tr>
+                        </table>
+                        </fieldset>
+                </td>
+             </tr>
+             <tr>
+                <td>Thursday</td>
+                <td colspan="2">workshop</td>
+                <td>Physics</td>
+                <td >break</td>
+                <td>Mathematics</td>
+                <td>English</td>
+                <td>Seminar</td>
+            </tr>
+            <tr>
+                <td>Friday</td>
+                <td colspan="2">Computer networks</td>
+                <td>English</td>
+                <td>Physics</td>
+                <td>break</td>
+                <td colspan="3">Project work</td> 
+            </tr>
+            </table>
+        </fieldset>
+        <footer>
+            <p style="font-family:Gabriola ;text-align:center;font-size:18px;">#Shreya Sharma &nbsp;&nbsp;&nbsp;&nbsp; 2026b15310141</p>
+        </footer>
+    </body>
+</html>
