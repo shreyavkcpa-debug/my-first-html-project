@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>news</title>
+    </head>
+    <body>
+        <h1 style="text-align: center;">Global News Daily</h1>
+        <p style="text-align: center;">Your trusted source for daily updates</p>
+        <hr>
+        <p style="text-align: center;color:blue"><u>World &nbsp;&nbsp;|&nbsp;&nbsp;Sports &nbsp;&nbsp;|&nbsp;&nbsp;Entertainment&nbsp;&nbsp;|&nbsp;&nbsp;News Podcast&nbsp;&nbsp;|&nbsp;&nbsp;contact</u></p>
+        <hr>
+        <p>World News</p>
+        <br>
+        <p>Today's top headlines:Global leaders meet to discuss climate change initiatives</p>
+        <img src="https://opennuclear.org/sites/default/files/styles/hero_image_837x460/public/bbc_world_news_logo.png?itok=eDrs1umo">
+        <br>
+        <a href="https://www.bbc.com/news/world">Read more on bbc</a>
+        <hr>
+        <h2>Sports Updates</h2>
+        <p>Highlights of yesterday's Football match with thrilling last-minute goals!</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/wuOhGOHZTFk?si=OUlQjilCdYxoJ44i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <hr>
+        <h2>Entertainment Buzz</h2>
+        <p>New movie trailer eleased today.Fans are excited!</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/hN_ZUElLH44?si=UZ597-yql2jWi4WZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <hr>
+        <h2>News Podcast</h2>
+        <p>Listen to the latest news and analysis from our expert hosts.</p>
+        <audio controls>
+            <source src="https://samplelib.com/mp3/sample-6s.mp3" type="audio/mpeg">
+        </audio>
+<hr>
+        <h2>Contact Us</h2>
+        <p>Email : info@globalnewsdaily.com</p>
+        <p>&copy; 2025 Global News Daily. All rights reserved.</p>
+        <hr>
+        <footer>
+            <p style="font-family:Gabriola ;text-align:center;font-size:18px;">#Shreya Sharma &nbsp;&nbsp;&nbsp;&nbsp; 2026b15310141</p>
+        </footer>
+    </body>
+</html>
